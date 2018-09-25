@@ -1,0 +1,1 @@
+This project explores basic sentiment analysis for the purpose of predicting board game ratings from review text. The anaconda environment used to create the project can be installed from `requirements.txt`. This is an ongoing project which will continue to be iterated; check in for updates every week or two.
